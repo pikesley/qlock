@@ -46,7 +46,7 @@ pluggy==1.0.0
 prompt-toolkit==3.0.36
 ptyprocess==0.7.0
 py==1.11.0
-pycairo==1.23.0
+pycairo==1.26.0
 pycodestyle==2.10.0
 pycparser==2.21
 pycrypto==2.6.1
