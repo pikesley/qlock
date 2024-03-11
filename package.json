@@ -18,7 +18,7 @@
     "prettier": "^3.2.5",
     "sass-true": "^6.1.0",
     "socket.io-mock": "^1.3.2",
-    "xunit-viewer": "^10.5.1"
+    "xunit-viewer": "^10.6.1"
   },
   "scripts": {
     "jest-dom": "JEST_JUNIT_OUTPUT_NAME=jest-dom-junit.xml jest --testPathIgnorePatterns scss --bail",
